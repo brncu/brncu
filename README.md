@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="100" alt="Gengar" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=7B68EE&center=true&vCenter=true&width=600&lines=Bem-vindo%2C+eu+sou+o+Guilherme!+%F0%9F%96%90%EF%B8%8F;Estudante+de+Engenharia+de+Software;Foco+em+Projetos+Reais" alt="Typing SVG" />
+  <!-- Salve a imagem do Gengar que eu gerei, faça o upload no seu repositório do GitHub e substitua o link abaixo pelo link da sua imagem -->
+  <img src="COLOQUE_O_LINK_DA_IMAGEM_AQUI.jpg" width="450" alt="Gengar na Floresta" />
 </div>
 
 <br>
@@ -46,13 +45,11 @@
 
 ## 📊 Minhas Estatísticas
 
-
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brncu&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brncu&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="180"/>
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brncu&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180"/>
 </div>
