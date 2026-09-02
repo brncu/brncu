@@ -1,8 +1,8 @@
-# Olá, eu sou o Guilherme! 👋
+# Bem-vindo, eu sou o Guilherme Silva! 🖐
 
-### Estudante de Engenharia de Software | Desenvolvedor
+### Estudante de Engenharia de Software | UniBras
 
-Bem-vindo(a) ao meu GitHub! Sou apaixonado por tecnologia e estou em constante aprendizado para construir soluções eficientes. Aqui você encontrará meus projetos, estudos e minha evolução na programação.
+Esse é o meu GitHub, focado em projetos reais e desenvolvimento de sistemas avulsos! 
 
 ## 🚀 Sobre Mim
 
