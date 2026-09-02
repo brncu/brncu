@@ -1,10 +1,8 @@
 name: GitHub Profile 3D Contribute
 
 on:
-  # Roda automaticamente todo dia à meia-noite
   schedule:
     - cron: "0 0 * * *"
-  # Permite rodar manualmente na aba Actions
   workflow_dispatch:
 
 jobs:
