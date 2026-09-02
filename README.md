@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="gengar-haunter-laughing-pokemon-zld5bzw920ycrmkk.jpg" width="550" alt="Gengar e Haunter" />
+  <img src="gengar-haunter-laughing-pokemon-zld5bzw920ycrmkk.gif" width="550" alt="Gengar e Haunter" />
 </div>
 
 <br>
@@ -51,10 +51,5 @@ Esse é o meu GitHub, focado em projetos reais e desenvolvimento de sistemas avu
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brncu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brncu&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="180"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brncu&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=brncu&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="180"/>
+  <img src="
