@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.gifdb.com/gengar-haunter-laughing-pokemon-zld5bzw920ycrmkk.gif" width="140" alt="Gengar e Haunter" />
+  <img src="https://media.tenor.com/7i2r4_k24cAAAAAC/gengar-haunter.gif" width="250" alt="Gengar e Haunter" />
   
   <h1>Bem-vindo, eu sou o Guilherme Silva! 🖐</h1>
   <h3>Estudante de Engenharia de Software | UniBras</h3>
@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/brncu/brncu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/brncu/brncu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Animation" />
 </div>
 
 ---
