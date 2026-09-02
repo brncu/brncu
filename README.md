@@ -34,12 +34,12 @@
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brncu&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Estatísticas do GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brncu&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Linguagens Mais Usadas" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brncu&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brncu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas" height="170"/>
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=brncu&theme=tokyonight&hide_border=true&v=1" alt="Streak Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=brncu&theme=tokyonight&hide_border=true" alt="Streak Stats" height="170"/>
 </div>
 
 ---
