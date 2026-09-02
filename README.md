@@ -1,11 +1,11 @@
 <div align="center">
+  <img src="https://media.gifdb.com/gengar-haunter-laughing-pokemon-zld5bzw920ycrmkk.gif" width="450" alt="Gengar e Haunter" />
+  
+  <br>
+
   <h1>Bem-vindo, eu sou o Guilherme Silva! 🖐</h1>
   <h3>Estudante de Engenharia de Software | UniBras</h3>
   <p>Esse é o meu GitHub, focado em projetos reais e desenvolvimento de sistemas avulsos!</p>
-  
-  <br>
-  
-  <img src="https://gifdb.com/images/high/gengar-haunter-laughing-pokemon-zld5bzw920ycrmkk.gif" width="450" alt="Gengar e Haunter" />
 </div>
 
 ---
@@ -34,12 +34,12 @@
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brncu&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brncu&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brncu&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="Estatísticas do GitHub" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brncu&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Linguagens Mais Usadas" height="170"/>
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=brncu&theme=tokyonight&hide_border=true" alt="Streak Stats" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=brncu&theme=tokyonight&hide_border=true&v=1" alt="Streak Stats" height="170"/>
 </div>
 
 ---
