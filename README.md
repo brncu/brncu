@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="140" alt="Gengar" />
+  <img src="https://media.gifdb.com/gengar-haunter-laughing-pokemon-zld5bzw920ycrmkk.gif" width="140" alt="Gengar e Haunter" />
   
   <h1>Bem-vindo, eu sou o Guilherme Silva! 🖐</h1>
   <h3>Estudante de Engenharia de Software | UniBras</h3>
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 Estatísticas e Contribuições
+## 📊 Estatísticas e Contribuições do Ano
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brncu&theme=tokyonight" alt="Profile Details" />
@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/brncu/brncu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
 ---
