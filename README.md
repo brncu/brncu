@@ -41,6 +41,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brncu&theme=tokyonight" alt="Horário Produtivo" />
 </div>
 
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D Contribution Graph" width="100%" />
+</div>
+
 ---
 
 ## 📫 Contato e Redes Sociais
