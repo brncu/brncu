@@ -30,17 +30,12 @@
 
 ---
 
-## 📊 Estatísticas e Contribuições do Ano
+## 📊 Estatísticas e Contribuições
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brncu&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brncu&theme=tokyonight" alt="Linguagens Mais Usadas" />
 </div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brncu&theme=tokyonight" alt="Repositórios por Linguagem" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brncu&theme=tokyonight" alt="Horário Produtivo" />
-</div>
-
+<br>
 <div align="center">
   <img src="profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D Contribution Graph" width="100%" />
 </div>
