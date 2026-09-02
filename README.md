@@ -1,9 +1,14 @@
 <div align="center">
-  <!-- Salve a imagem do Gengar que eu gerei, faça o upload no seu repositório do GitHub e substitua o link abaixo pelo link da sua imagem -->
-  <img src="COLOQUE_O_LINK_DA_IMAGEM_AQUI.jpg" width="450" alt="Gengar na Floresta" />
+  <img src="gengar-haunter-laughing-pokemon-zld5bzw920ycrmkk.jpg" width="550" alt="Gengar e Haunter" />
 </div>
 
 <br>
+
+# Bem-vindo, eu sou o Guilherme Silva! 🖐
+
+### Estudante de Engenharia de Software | UniBras
+
+Esse é o meu GitHub, focado em projetos reais e desenvolvimento de sistemas avulsos! 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guilherme-silva-0295543a6" target="_blank">
@@ -46,7 +51,7 @@
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brncu&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=brncu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brncu&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="180"/>
 </div>
 <br>
