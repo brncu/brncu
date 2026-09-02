@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 Estatísticas e Contribuições
+## 📊 Estatísticas e Contribuições do Ano
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brncu&theme=tokyonight" alt="Profile Details" />
@@ -41,10 +41,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brncu&theme=tokyonight" alt="Horário Produtivo" />
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brncu&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Gráfico de Atividades Animado" width="100%" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D Contribution Graph" width="100%" />
 </div>
 
 ---
