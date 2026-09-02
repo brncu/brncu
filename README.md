@@ -30,19 +30,12 @@
 
 ---
 
-## 📊 Estatísticas e Contribuições
+## 📊 Status do Perfil
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brncu&theme=tokyonight" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brncu&theme=tokyonight" alt="Repositórios por Linguagem" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brncu&theme=tokyonight" alt="Horário Produtivo" />
-</div>
-
-<div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="GitHub 3D Contribution Graph" width="100%" />
+  <img src="https://img.shields.io/badge/GitHub-Ativo-success?style=for-the-badge&logo=github" alt="GitHub Status" />
+  <img src="https://img.shields.io/badge/Foco-Concurso%20e%20Sistemas-blue?style=for-the-badge" alt="Foco" />
+  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20n8n%20%7C%20TypeScript-informational?style=for-the-badge" alt="Stack" />
 </div>
 
 ---
