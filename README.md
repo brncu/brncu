@@ -9,7 +9,7 @@ Esse é o meu GitHub, focado em projetos reais e desenvolvimento de sistemas avu
 - 🎓 Estudante de Engenharia de Software na **UniBras Montes Belos**.
 - 💻 Meu foco atual é no desenvolvimento com **Python**, automação com **n8n** e criação com **Lovable**.
 - 🌱 Tenho conhecimentos iniciais em **HTML** e **JavaScript**, e atualmente estou dedicando meus estudos para aprender **TypeScript**.
-- 🎯 Buscando sempre escrever um código limpo e entender novas ferramentas para aprimorar meus projetos.
+- 🎯 Busco evolução em desenvolvimento de software, conhecimento humano para conseguir ser um concursado de TI com estabilidade
 
 ## 🛠️ Tecnologias e Ferramentas
 
