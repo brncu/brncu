@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/brncu/brncu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/brncu/brncu/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Animation" />
 </div>
 
 ---
