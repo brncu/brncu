@@ -11,7 +11,7 @@
 ## 🚀 Sobre Mim
 
 - 🎓 Estudante de Engenharia de Software na **UniBras Montes Belos**.
-- 💻 Meu foco atual é no desenvolvimento com **Python**, automação com **n80** (n8n) e criação com **Lovable**.
+- 💻 Meu foco atual é no desenvolvimento com **Python**, automação com **n8n** e criação com **Lovable**.
 - 🌱 Tenho conhecimentos iniciais em **HTML** e **JavaScript**, e atualmente estou dedicando meus estudos para aprender **TypeScript**.
 - 🎯 Busco evolução em desenvolvimento de software e conhecimento humano para conseguir ser um concursado de TI com estabilidade.
 
@@ -29,15 +29,12 @@
 
 ---
 
-## 📊 Minhas Estatísticas
+## 📊 Meus Status no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brncu&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brncu&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="170"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=brncu&theme=tokyonight&hide_border=true" alt="Streak Stats" height="170"/>
+  <img src="https://img.shields.io/github/followers/brncu?label=Seguidores&style=for-the-badge&color=7B68EE" alt="Seguidores" />
+  <img src="https://img.shields.io/github/stars/brncu?label=Repositórios%20Favoritos&style=for-the-badge&color=7B68EE" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/brncu/brncu?label=GitHub%20Repo&style=for-the-badge&color=7B68EE" alt="Repo Size" />
 </div>
 
 ---
