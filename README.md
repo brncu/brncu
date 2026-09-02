@@ -1,4 +1,4 @@
-
+# Olá, eu sou o Guilherme! 👋
 
 ### Estudante de Engenharia de Software | Desenvolvedor
 
@@ -8,16 +8,17 @@ Bem-vindo(a) ao meu GitHub! Sou apaixonado por tecnologia e estou em constante a
 
 - 🎓 Estudante de Engenharia de Software na **UniBras Montes Belos**.
 - 💻 Meu foco atual é no desenvolvimento com **Python**, automação com **n8n** e criação com **Lovable**.
-- 🌱 Estou gradualmente expandindo minhas habilidades e aprendendo **JavaScript**.
+- 🌱 Tenho conhecimentos iniciais em **HTML** e **JavaScript**, e atualmente estou dedicando meus estudos para aprender **TypeScript**.
 - 🎯 Buscando sempre escrever um código limpo e entender novas ferramentas para aprimorar meus projetos.
 
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <!-- Adicione outras tecnologias aqui com o tempo (ex: Git, SQL, etc) -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </div>
 
 ## 📊 Minhas Estatísticas
@@ -34,11 +35,17 @@ Bem-vindo(a) ao meu GitHub! Sou apaixonado por tecnologia e estou em constante a
 ## 📫 Como me encontrar
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme-silva-0295543a6" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:glhrmssantos08@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/guilhrmsntos_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discordapp.com/users/709383016396357673" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
