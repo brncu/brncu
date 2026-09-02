@@ -29,12 +29,12 @@
 
 ---
 
-## 📊 Meus Status no GitHub
+## 📊 Estatísticas e Atividade
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/brncu?label=Seguidores&style=for-the-badge&color=7B68EE" alt="Seguidores" />
-  <img src="https://img.shields.io/github/stars/brncu?label=Repositórios%20Favoritos&style=for-the-badge&color=7B68EE" alt="Stars" />
-  <img src="https://img.shields.io/github/repo-size/brncu/brncu?label=GitHub%20Repo&style=for-the-badge&color=7B68EE" alt="Repo Size" />
+  <img src="https://img.shields.io/badge/Perfil-Ativo-success?style=for-the-badge&logo=github" alt="Status" />
+  <img src="https://img.shields.io/github/commits-since/brncu/brncu/v1.0?style=for-the-badge&logo=git" alt="Commits" />
+  <img src="https://img.shields.io/badge/Foco-Concurso%20TI-blue?style=for-the-badge" alt="Foco" />
 </div>
 
 ---
