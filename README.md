@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://media.gifdb.com/gengar-haunter-laughing-pokemon-zld5bzw920ycrmkk.gif" width="450" alt="Gengar e Haunter" />
+  <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/94.gif" width="160" alt="Gengar" />
   
-  <br>
-
   <h1>Bem-vindo, eu sou o Guilherme Silva! 🖐</h1>
   <h3>Estudante de Engenharia de Software | UniBras</h3>
   <p>Esse é o meu GitHub, focado em projetos reais e desenvolvimento de sistemas avulsos!</p>
@@ -13,7 +11,7 @@
 ## 🚀 Sobre Mim
 
 - 🎓 Estudante de Engenharia de Software na **UniBras Montes Belos**.
-- 💻 Meu foco atual é no desenvolvimento com **Python**, automação com **n8n** e criação com **Lovable**.
+- 💻 Meu foco atual é no desenvolvimento com **Python**, automação com **n80** (n8n) e criação com **Lovable**.
 - 🌱 Tenho conhecimentos iniciais em **HTML** e **JavaScript**, e atualmente estou dedicando meus estudos para aprender **TypeScript**.
 - 🎯 Busco evolução em desenvolvimento de software e conhecimento humano para conseguir ser um concursado de TI com estabilidade.
 
@@ -35,7 +33,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brncu&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brncu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Linguagens Mais Usadas" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brncu&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" height="170"/>
 </div>
 <br>
 <div align="center">
