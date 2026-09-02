@@ -29,10 +29,15 @@
 
 ---
 
-## 📊 Meu Desempenho
+## 📊 Estatísticas e Contribuições
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brncu&theme=tokyonight" alt="Profile Details Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brncu&theme=tokyonight" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brncu&theme=tokyonight" alt="Repositórios por Linguagem" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brncu&theme=tokyonight" alt="Horário Produtivo" />
 </div>
 
 ---
